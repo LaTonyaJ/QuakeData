@@ -1,4 +1,5 @@
 
+
 public class QuakeEntry implements Comparable<QuakeEntry>{
 	
 	private Location myLocation;

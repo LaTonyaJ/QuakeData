@@ -1,4 +1,5 @@
 
+
 public class MagnitudeFilter implements Filter {
 
     private double minMag;

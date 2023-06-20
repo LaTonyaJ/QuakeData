@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -16,15 +17,14 @@ public class App {
         //client.quakesByPhrase();
         //client.quakesOfDepth();
        //closeQuakes.findClosestQuakes();
-       largeQuakes.getLargest(qe, 5);
+       //largeQuakes.getLargest(qe, 50);
         System.out.println("**********");
                 
         System.out.println("*******************************");
         //client2.quakesWithFilter();
-
+        client2.testMatchAllFilter2();
         System.out.println("**********");
         
-
-        
+        //client2.testMatchAllFilter();
     }
 }

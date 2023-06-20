@@ -1,30 +1,4 @@
-/*
- * Copyright (C) 2007 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- * 
- * 
- * 
- * Copyright (C) 2015 Duke University
- * 
- * (same license as above)
- * 
- * Revised on November 8, 2015 for use by Team Duke Software
- * and hereby released with the same Apache 2.0 license
- * Adoption consisting of removing all methods and fields that
- * are Android specific so that the file compiles and can be used
- * outside of Android. Also added constructor with Latitude and Longitude.
- */
+
 
 import java.text.DecimalFormat;
 import java.util.StringTokenizer;

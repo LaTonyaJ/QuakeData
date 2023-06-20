@@ -42,5 +42,6 @@ public class LargestQuakes {
         for(QuakeEntry qe: answer){
             System.out.println(qe + "\n");
         }
+        System.out.println("# of quakes: " + answer.size());
     }
 }
